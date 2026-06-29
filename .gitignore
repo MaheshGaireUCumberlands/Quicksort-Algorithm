@@ -1,0 +1,9 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Unit test cache
+.pytest_cache/
+
+# OS files
+.DS_Store
